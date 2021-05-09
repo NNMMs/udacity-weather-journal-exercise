@@ -24,6 +24,15 @@ $ npm --version
 ```
 $ git clone https://github.com/NNMMs/udacity-weather-journal-exercise.git`
 $ cd udacity-weather-journal-exercise
+
+```
+- Install the necessary Dependencies 
+
+```
 $ npm install
+```
+- Run the server
+
+```
 $ npm start
 ```
