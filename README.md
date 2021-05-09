@@ -5,8 +5,18 @@ This is an exercise project that illustrates the concept of  **Asynchronous Java
 
 This project is part of the _Udacity Front End Web Development Professional Nanodegree_ program.
 
-It is a multi-section landing page with dynamic navigation menu.
+## Requirements
 
+You will need Node.js and node package manager (npm) installed in your environment which can download from [official Node.js download page](https://nodejs.org/en/download).
+
+If the installation was successful, you should be able to run the following commands.
+```
+$ node --version
+  v14.16.1
+  
+$ npm --version
+  6.14.12
+```
 ## Installation
 
 - Clone the GitHub repository
@@ -14,6 +24,6 @@ It is a multi-section landing page with dynamic navigation menu.
 ```
 $ git clone https://github.com/NNMMs/udacity-weather-journal-exercise.git`
 $ cd udacity-weather-journal-exercise
+$ npm install
+$ npm start
 ```
-
-
