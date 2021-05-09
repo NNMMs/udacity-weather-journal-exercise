@@ -7,7 +7,7 @@ This project is part of the _Udacity Front End Web Development Professional Nano
 
 ## Requirements
 
-You will need Node.js and node package manager (npm) installed in your environment which can download from [official Node.js download page](https://nodejs.org/en/download).
+You will need Node.js and node package manager (npm) installed in your environment which you can download from [official Node.js download page](https://nodejs.org/en/download).
 
 If the installation was successful, you should be able to run the following commands.
 ```
